@@ -1,1 +1,1 @@
-<img src="https://raw.githubusercontent.com/turashrocks/html-dashboard-new/main/application-screenshot.png">
+<img src="https://raw.githubusercontent.com/turashrocks/html-dashboard-new/main/application-screenshot3.png">
