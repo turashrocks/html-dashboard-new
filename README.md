@@ -1,1 +1,1 @@
-![alt text](https://github.com/[turashrocks]/[html-dashboard-new.git]/blob/[main]/application-screenshot.png?raw=true)
+<img src="https://raw.githubusercontent.com/turashrocks/html-dashboard-new/main/application-screenshot.png">
