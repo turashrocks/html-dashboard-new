@@ -38,14 +38,19 @@ print(arsenal.jsonify())
 ​
 ```
 </h3>
- <img align="left" alt="GIF" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/home.gif?raw=true"  width="200" height="auto"/>
+<img align="left" alt="GIF" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/home.gif?raw=true"  width="250" height="auto"/>
 
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/code.gif?raw=true" width="500" height="320" />
 
 
-  <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/laravel.svg" width="30" height="30" />
-  <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/mysql.svg" width="30" height="30" />
-  <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/node-js.svg" width="30" height="30" />
-  <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/react-js.svg" width="30" height="30" />
-  <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/vue-js.svg" width="30" height="30" />
-  <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/typescript.svg" width="30" height="30" />
+<img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/laravel.svg" width="45" height="45" />
+<img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/jquery.svg" width="45" height="45" />
+<img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/mysql.svg" width="45" height="45" />
+<img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/node-js.svg" width="45" height="45" />
+<img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/react-js.svg" width="45" height="45" />
+<img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/vue-js.svg" width="45" height="45" />
+<img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/angular.svg" width="45" height="45" />
+<img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/nextjs.svg" width="45" height="45" />
+<img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/typescript.svg" width="45" height="45" />
+<img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/docker.svg" width="45" height="45" />
+<img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/github.svg" width="45" height="45" />
