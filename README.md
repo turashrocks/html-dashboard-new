@@ -52,12 +52,9 @@ export default {
 ```
 </h4>
 
-<br>
-
 <h3>Techs I work time to time </h3>
 
-<br>
-
+<p>
 <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/php.svg" width="45" height="45" />
 <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/laravel.svg" width="45" height="45" />
 <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/composer.svg" width="45" height="45" />
@@ -127,14 +124,16 @@ export default {
 <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/3ds-max.svg" width="45" height="45" />
 <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/unity.svg" width="45" height="45" />
 <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/unreal.svg" width="45" height="45" />
+</p>
+<br>
+<br>
+<h3 style="float: left">Happy Coding</h3>
 
 <br>
-<h3>Happy Coding</h3>
 
-<br>
-
+<p>
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/code.gif?raw=true" width="500" height="320" />
-
+</p>
 <br>
 
 
