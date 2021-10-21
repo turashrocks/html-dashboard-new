@@ -8,8 +8,6 @@
 hi, i'm [Turash C](https://ebuilders.pro/), a passionate self-taught full stack developer and a freelance software engineer. 
 
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:turash.chowdhury@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
@@ -40,3 +38,6 @@ print(arsenal.jsonify())
 ​
 ```
 </h3>
+
+
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/code.gif?raw=true" width="500" height="320" />
