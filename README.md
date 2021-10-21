@@ -94,7 +94,7 @@ export default {
 <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/material-ui.svg" width="55" height="55" />
 <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/flat.svg" width="55" height="55" />
 <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/vuetify.svg" width="55" height="55" />
-<img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/sementic-ui.svg" width="55" height="55" />
+<img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/semantic-ui.svg" width="55" height="55" />
 <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/github.svg" width="55" height="55" />
 <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/gitlab.svg" width="55" height="55" />
 <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/digitalocean.svg" width="55" height="55" />
@@ -129,9 +129,6 @@ export default {
 <br/>
 <br/>
 
-<p>
-<img align="left" alt="GIF" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/code.gif?raw=true" width="500" height="320" />
-</p>
 <br/>
 
 
