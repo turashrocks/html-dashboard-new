@@ -52,11 +52,18 @@ export default {
 ```
 </h4>
 
-<img align="left" alt="GIF" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/home.gif?raw=true"  width="250" height="auto"/>
+<br>
+<br>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/code.gif?raw=true" width="500" height="320" />
+<img align="left" alt="GIF" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/code.gif?raw=true" width="500" height="320" />
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/home.gif?raw=true"  width="250" height="auto"/>
+
 
 <br>
+<br>
+<br>
+
 <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/php.svg" width="45" height="45" />
 <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/laravel.svg" width="45" height="45" />
 <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/js.svg" width="45" height="45" />
