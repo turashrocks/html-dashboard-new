@@ -38,6 +38,14 @@ print(arsenal.jsonify())
 ​
 ```
 </h3>
-
+ <img align="left" alt="GIF" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/home.gif?raw=true" width="500" height="320" />
 
   <img align="right" alt="GIF" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/code.gif?raw=true" width="500" height="320" />
+
+
+  <img src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/laravel.svg" width="80" height="80" />
+  <img src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/mysql.svg" width="80" height="80" />
+  <img src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/node-js.svg" width="80" height="80" />
+  <img src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/react-js.svg" width="80" height="80" />
+  <img src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/vue-js.svg" width="80" height="80" />
+  <img src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/typescript.svg" width="80" height="80" />
