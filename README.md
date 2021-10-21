@@ -125,15 +125,15 @@ export default {
 <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/unity.svg" width="45" height="45" />
 <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/unreal.svg" width="45" height="45" />
 </p>
-<br>
-<br>
+<br/>
+<br/>
 <h3 style="float: left">Happy Coding</h3>
 
-<br>
+<br/>
 
 <p>
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/code.gif?raw=true" width="500" height="320" />
 </p>
-<br>
+<br/>
 
 
