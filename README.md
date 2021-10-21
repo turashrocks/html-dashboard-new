@@ -12,45 +12,68 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 💼 any freelance work? do reach, [email](mailto:turash.chowdhury@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-<h3>
+<h4>
     
-```python
+```javascript
 ​
-from __future__ import annotations
+import axios from "axios";
 
-import json
-from dataclasses import asdict, dataclass
+const state = {
+    auth_role_name: "normal person",
+    server_url: "https://someamazingwebsite.com"
+};
 
+const getters = {
+    get_auth_role_name: (state) => state.auth_role_name,
+    get_server_url: (state) => state.server_url,
+}
 
-@dataclass
-class Arsenal:
-    languages: tuple[str, ...] = ("Python", "JS", "Go")
-    databases: tuple[str, ...] = ("SQLite", "PostgreSQL", "DynamoDB", "Redis")
-    misc     : tuple[str, ...] = ("Docker", "Celery", "RabbitMQ", "Arq", "SQS")
-    ongoing  : tuple[str, ...] = ("Django", "DRF", "Asyncio")
+const actions = {
+    fetch_auth_info: function () {
+        axios.get("/api/links").then((res) => {
+            console.log(res.data);
+        });
+  },
+}
 
-    def jsonify(self) -> str:
-        return json.dumps(asdict(self), indent=4)
-
-
-arsenal = Arsenal()
-print(arsenal.jsonify())
+const mutations = {
+    set_auth_role_name: function (state, auth_role_name) {
+        state.auth_role_name = auth_role_name;
+    },
+}   
 ​
+export default {
+  state,
+  getters,
+  actions,
+  mutations,
+};
+
 ```
-</h3>
+</h4>
+
 <img align="left" alt="GIF" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/home.gif?raw=true"  width="250" height="auto"/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/code.gif?raw=true" width="500" height="320" />
 
-
+<br>
+<img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/php.svg" width="45" height="45" />
 <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/laravel.svg" width="45" height="45" />
+<img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/js.svg" width="45" height="45" />
+<img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/vue-js.svg" width="45" height="45" />
+<img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/react-js.svg" width="45" height="45" />
+<img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/codeigniter.svg" width="45" height="45" />
+<img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/magento.svg" width="45" height="45" />
+<img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/css.svg" width="45" height="45" />
 <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/jquery.svg" width="45" height="45" />
 <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/mysql.svg" width="45" height="45" />
 <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/node-js.svg" width="45" height="45" />
-<img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/react-js.svg" width="45" height="45" />
-<img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/vue-js.svg" width="45" height="45" />
 <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/angular.svg" width="45" height="45" />
 <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/nextjs.svg" width="45" height="45" />
+<img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/nuxt-js.svg" width="45" height="45" />
 <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/typescript.svg" width="45" height="45" />
 <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/docker.svg" width="45" height="45" />
 <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/github.svg" width="45" height="45" />
+<img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/wordpress.svg" width="45" height="45" />
+<img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/android-studio.svg" width="45" height="45" />
+<img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/app-store.svg" width="45" height="45" />
