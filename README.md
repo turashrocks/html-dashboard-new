@@ -53,14 +53,8 @@ export default {
 </h4>
 
 <br>
-<br>
 
-<img align="left" alt="GIF" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/code.gif?raw=true" width="500" height="320" />
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/home.gif?raw=true"  width="250" height="auto"/>
-<br>
-
-### some techs I work time to time 
+<h3>Techs I work time to time </h3>
 
 <br>
 
@@ -133,4 +127,14 @@ export default {
 <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/3ds-max.svg" width="45" height="45" />
 <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/unity.svg" width="45" height="45" />
 <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/unreal.svg" width="45" height="45" />
+
+<br>
+<h3>Happy Coding</h3>
+
+<br>
+
+<img align="left" alt="GIF" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/code.gif?raw=true" width="500" height="320" />
+
+<br>
+
 
