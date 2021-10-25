@@ -1,9 +1,26 @@
 
-Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> i'm [Turash C], a passionate self-taught Full Stack Developer 
+# Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> i'm Turash C.
+## a passionate self-taught Full Stack Developer 
 
 - 💼 Currently I am working at a Swedish IT Firm (remote) as a Fullstack Developer mostly in php and vue js  
 - 💼 Also open to any freelance work either in Development of Fullstack Web Application, Wordpress or php and javascript based platforms
 - 💬 ask me about anything, i am happy to help;
+
+### Languages
+
+![Php](https://img.shields.io/badge/-Php-000?&logo=Php)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Vue](https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=Vue.js&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 
 <h4>
     
