@@ -1,7 +1,7 @@
 
-Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> i'm [Turash C](https://ebuilders.pro/), a passionate self-taught full stack developer 
+Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> i'm [Turash C](https://ebuilders.pro/), a passionate self-taught Full Stack Developer 
 
-- 💼 Currently I am working on a Swedish IT Firm as a fullstack developer mostly in php and vue js  
+- 💼 Currently I am working at a Swedish IT Firm as a Fullstack Developer mostly in php and vue js  
 - 💼 Also open to any freelance work
 - 💬 ask me about anything, i am happy to help;
 
@@ -13,12 +13,10 @@ import axios from "axios";
 
 const state = {
     auth_role_name: "normal person",
-    server_url: "https://someamazingwebsite.com"
 };
 
 const getters = {
     get_auth_role_name: (state) => state.auth_role_name,
-    get_server_url: (state) => state.server_url,
 }
 
 const actions = {
@@ -45,7 +43,7 @@ export default {
 ```
 </h4>
 
-<h3>Techs I work time to time </h3>
+<h2>Techs I work time to time </h2><br><br>
 
 <p>
 <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/php.svg" width="45" height="45" />
