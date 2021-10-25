@@ -1,6 +1,6 @@
 
 # Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> i'm Turash C.
-## a passionate self-taught Full Stack Developer 
+### Passionate Self-Taught Full Stack Developer 
 
 - 💼 Currently I am working at a Swedish IT Firm (remote) as a Fullstack Developer mostly in php and vue js  
 - 💼 Also open to any freelance work either in Development of Fullstack Web Application, Wordpress or php and javascript based platforms
@@ -62,8 +62,6 @@ export default {
 
 ```
 </h4>
-
-<h2>Techs I work time to time </h2><br><br>
 
 <p>
 <img align="left" src="https://raw.githubusercontent.com/turashrocks/turashrocks/main/svg-logo/php.svg" width="45" height="45" />
