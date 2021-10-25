@@ -9,9 +9,11 @@
 ### Languages
 
 ![Php](https://img.shields.io/badge/-Php-000?&logo=Php)
+![Laravel](https://img.shields.io/badge/-Laravel-000?style=flat&logo=Laravel)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Vue](https://img.shields.io/badge/-Vue-000?style=flat&logo=Vue.js)
+![Angular](https://img.shields.io/badge/-Angular-000?style=flat&logo=Angular)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 
 ### Technologies
