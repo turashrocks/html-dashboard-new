@@ -11,7 +11,7 @@
 ![Php](https://img.shields.io/badge/-Php-000?&logo=Php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Vue](https://img.shields.io/badge/-Vue-4fc08d?style=flat&logo=Vue.js&logoColor=fff)
+![Vue](https://img.shields.io/badge/-Vue-000?style=flat&logo=Vue.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 
 ### Technologies
