@@ -1,15 +1,8 @@
-<!-- <img src="https://raw.githubusercontent.com/turashrocks/html-dashboard-new/main/application-screenshot3.png"> -->
 
+Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> i'm [Turash C](https://ebuilders.pro/), a passionate self-taught full stack developer 
 
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<br />
-
-hi, i'm [Turash C](https://ebuilders.pro/), a passionate self-taught full stack developer and a freelance software engineer. 
-
-I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
-  
-- 💼 any freelance work? do reach, [email](mailto:turash.chowdhury@gmail.com) :)
+- 💼 Currently I am working on a Swedish IT Firm as a fullstack developer mostly in php and vue js  
+- 💼 Also open to any freelance work
 - 💬 ask me about anything, i am happy to help;
 
 <h4>
