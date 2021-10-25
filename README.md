@@ -1,8 +1,8 @@
 
-Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> i'm [Turash C](https://ebuilders.pro/), a passionate self-taught Full Stack Developer 
+Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> i'm [Turash C], a passionate self-taught Full Stack Developer 
 
-- 💼 Currently I am working at a Swedish IT Firm as a Fullstack Developer mostly in php and vue js  
-- 💼 Also open to any freelance work
+- 💼 Currently I am working at a Swedish IT Firm (remote) as a Fullstack Developer mostly in php and vue js  
+- 💼 Also open to any freelance work either in Development of Fullstack Web Application, Wordpress or php and javascript based platforms
 - 💬 ask me about anything, i am happy to help;
 
 <h4>
